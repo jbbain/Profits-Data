@@ -1,0 +1,10 @@
+Diskettes	32 63 -12 84
+Printers	-23 564 45 75
+Laptops		24 82 -42 22
+Scanners	66 133 -53 49
+Cameras 	77 21 -67 43
+USBs		23 45 54 65
+Tablets		90 84 43 21
+Desktops	54 65 76 98
+Headphones	43 21 7 -32
+Smartphones	78 90 103 323
